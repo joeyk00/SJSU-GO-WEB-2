@@ -21,5 +21,6 @@
 
 --firebase deploy
 
+--changes will be live after refreshing the page, and sometimes may need to go to a private browser if the page is still not loading the current deployment.
 
-
+--all changes will be made live to: https://sjsu-go.web.app/
