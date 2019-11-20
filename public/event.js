@@ -1,5 +1,5 @@
   // Initialize Firebase
-var firebaseConfig = {
+  var firebaseConfig = {
     apiKey: "AIzaSyAbPNYPqHGbcz7wat3bhc5oIbfzsi3b9Iw",
     authDomain: "sjsu-go.firebaseapp.com",
     databaseURL: "https://sjsu-go.firebaseio.com",
@@ -119,7 +119,7 @@ function submitForm(e) {
     
     //Clear form
     document.getElementById('eventForm').reset();
-
+    alert("Your event has been submitted and is awaitng approval.")
     
 }
 
