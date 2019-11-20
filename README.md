@@ -10,11 +10,15 @@
 --All files will open 
 
 --In the CMD or terminal, cd into the project folder
+
 --You will need to authenticate the project with firebase
+
 --Sign into the firebase account that contains the SJSU-GO-web database after type in to your cmd or terminal
+
 --firebase login --reauth
 
 --Once that is completed you can now deploy your changes to the firebase by typing in
+
 --firebase deploy
 
 
